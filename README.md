@@ -19,7 +19,7 @@
     1: windows 安装 https://docs.microsoft.com/zh-cn/windows/wsl/install-manual   
     
     2: 基于 wsl2 安装docker,推荐 第一种方式
-       https://zhuanlan.zhihu.com/p/421998834
+       [https://zhuanlan.zhihu.com/p/421998834](https://zhuanlan.zhihu.com/p/421998834)
     
     3: 安装 golang 
        wget https://go.dev/dl/go1.18.3.linux-amd64.tar.gz
@@ -27,7 +27,7 @@
        export PATH=$PATH:/usr/local/go/bin
 
     4: 源码下载 (或者自行下载源码包)
-       git clone https://github.com/luckylocode/mobaXterm.git
+       git clone https://github.com/luckylocode/Moba-Xterm.git
 
 ### 网络准备
     1: 宿主机允许 科学上网允许来自局域网的连接
